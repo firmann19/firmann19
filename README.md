@@ -5,7 +5,6 @@
 🖐 Hi, my name is Firman Ramadhan, a fullstack developer with 1 year of experience. My skills include front-end (HTML, CSS, JavaScript, React) and back-end (Node.js, Express, MongoDB, MySQL). I enjoy exploring new technologies and contributing to open source projects. Check out my repositories for examples of projects I have worked on. I am open to collaboration and discussions about software development.
 
 # <div align="center">💻 Tech Experiences: </div>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#) 
