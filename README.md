@@ -23,6 +23,9 @@
 
 ## <div align="center">🌐 How to reach me:</div>
   <p align="center">
+  <a href="https://www.instagram.com/yourusername/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="115" alt="Instagram" />
+</a>
   <a href="https://www.instagram.com/firmann_r/" target="_blank">
   <img src="https://www.instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" width="115" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/firmanr19/" target="_blank">
