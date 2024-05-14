@@ -21,3 +21,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmann19&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firmann19&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## <div align="center">🌐 How to reach me:</div>
+  <p align="center">
+  <a href="mailto:firman19ramadhan@gmail.com" target="_blank">
+  <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="115" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/firmann_r/" target="_blank">
+  <img src="https://www.instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" width="115" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/firmanr19/" target="_blank">
+  <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-128px-TM.png" width="115" alt="LinkedIn" /></a>
+  </p>
