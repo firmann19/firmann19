@@ -23,8 +23,6 @@
 
 ## <div align="center">🌐 How to reach me:</div>
   <p align="center">
-  <a href="mailto:firman19ramadhan@gmail.com" target="_blank">
-  <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="115" alt="Gmail" /></a>
   <a href="https://www.instagram.com/firmann_r/" target="_blank">
   <img src="https://www.instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" width="115" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/firmanr19/" target="_blank">
