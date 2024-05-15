@@ -33,7 +33,7 @@ End of the code -->
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=firmann19&show_icons=true&theme=midnight-purple&locale=en&layout=compact&private=true" alt="firmann19" /></a></p>
 
 
-## <div align="center">🌐 How to reach me:</div>
+# <div align="center">🌐 How to reach me:</div>
 <p align="center">
   <a href="mailto:firman19ramadhan@gmail.com" target="_blank">
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="50" alt="Gmail" />
