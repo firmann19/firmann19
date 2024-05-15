@@ -1,13 +1,10 @@
-# <div align="center">Hello Everyone 🖐, I'm Rizky Faisal Rafi / RIFARA</div>
+# <div align="center">Hello Everyone 🖐, I'm Firman Ramadhan</div>
 <div align="center">I'm a <strong>Developer</strong> from <strong>Indonesia.</strong></div>
 </br>
-<a href="https://github.com/RizkyFaisalRafi/" target="_blank"><img src="https://raw.githubusercontent.com/RizkyFaisalRafi/banner/main/Banner2.png" /></a>
+<a href="https://github.com/firmann19/" target="_blank"><img src="https://raw.githubusercontent.com/firmann19/banner/main/Banner1.png" /></a>
 # <div align="center">🎉 About Me:</div> <p> </p>
 
-🖐 Hi, my name is Firman Ramadhan, a fullstack developer with 1 year of experience. 
-<p>My skills include front-end (HTML, CSS, JavaScript, React) and back-end (Node.js, Express, MongoDB, MySQL). </p>
-<p>I enjoy exploring new technologies and contributing to open source projects. </p>
-Check out my repositories for examples of projects I have worked on. I am open to collaboration and discussions about software development.
+<p align="justify">🖐 Hi, my name is Firman Ramadhan, a fullstack developer with 1 year of experience. My skills include front-end (HTML, CSS, JavaScript, React) and back-end (Node.js, Express, MongoDB, MySQL). I enjoy exploring new technologies and contributing to open source projects. Check out my repositories for examples of projects I have worked on. I am open to collaboration and discussions about software development.</p>
 
 # <div align="center">💻 Tech Experiences: </div>
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
