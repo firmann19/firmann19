@@ -1,5 +1,13 @@
+# <div align="center">Hello Everyone 🖐, I'm Rizky Faisal Rafi / RIFARA</div>
+<div align="center">I'm a <strong>Developer</strong> from <strong>Indonesia.</strong></div>
+</br>
+<a href="https://github.com/RizkyFaisalRafi/" target="_blank"><img src="https://raw.githubusercontent.com/RizkyFaisalRafi/banner/main/Banner2.png" /></a>
 # <div align="center">🎉 About Me:</div> <p> </p>
-🖐 Hi, my name is Firman Ramadhan, a fullstack developer with 1 year of experience. My skills include front-end (HTML, CSS, JavaScript, React) and back-end (Node.js, Express, MongoDB, MySQL). I enjoy exploring new technologies and contributing to open source projects. Check out my repositories for examples of projects I have worked on. I am open to collaboration and discussions about software development.
+
+🖐 Hi, my name is Firman Ramadhan, a fullstack developer with 1 year of experience. 
+<p>My skills include front-end (HTML, CSS, JavaScript, React) and back-end (Node.js, Express, MongoDB, MySQL). </p>
+<p>I enjoy exploring new technologies and contributing to open source projects. </p>
+Check out my repositories for examples of projects I have worked on. I am open to collaboration and discussions about software development.
 
 # <div align="center">💻 Tech Experiences: </div>
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
@@ -16,10 +24,17 @@
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#) 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
-
+<!--
 # <div align="center">📊 GitHub Stats:</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmann19&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firmann19&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+End of the code -->
+
+# <div align="center">📊 GitHub Stats:</div>
+  <p align="center">
+  <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firmann19&theme=midnight-purple&hide_border=false" alt="firmann19" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=firmann19&show_icons=true&theme=midnight-purple&locale=en&layout=compact&private=true" alt="firmann19" /></a></p>
+
 
 ## <div align="center">🌐 How to reach me:</div>
 <p align="center">
