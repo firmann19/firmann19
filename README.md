@@ -37,10 +37,10 @@ End of the code -->
 <p align="center">
   <a href="mailto:firman19ramadhan@gmail.com" target="_blank">
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="50" alt="Gmail" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/firmann_r/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" alt="Instagram" />
-  </a>  
+  </a>&nbsp;&nbsp;&nbsp;  
   <a href="https://www.linkedin.com/in/firmanr19/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" alt="LinkedIn" />
   </a>
